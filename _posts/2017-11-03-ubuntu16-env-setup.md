@@ -49,6 +49,11 @@ author: lslx
 - home：其余空间（大概900G）
 
 ## 7.其他软件安装
+### 1.基础类
+- 国内源替换
+- 输入法
+- shadowsocks
+
 ### 1.系统类
 - qemu
 - vmware
