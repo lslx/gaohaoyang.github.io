@@ -55,6 +55,7 @@ author: lslx
 - shadowsocks
 
 ### 1.系统类
+- new kernel
 - qemu
 - vmware
 - vbox
