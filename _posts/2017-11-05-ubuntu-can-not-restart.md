@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "ubuntu 不能重启（死机）"
-categories: meta
-tags:  markdown
+categories: daliy
+tags:  system halted
 author: lslx
 ---
 
